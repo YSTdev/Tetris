@@ -1,0 +1,30 @@
+﻿<Window x:Class="Tetris.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="585" Width="416" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" KeyDown="Window_KeyDown">
+    <Grid Height="548">
+        <Canvas Height="480" HorizontalAlignment="Left" Margin="17,0,0,20" Name="canvasField" VerticalAlignment="Bottom" Width="240" Background="White">
+            <Rectangle Height="480" Name="rectangle1" Stroke="Black" Width="240" StrokeThickness="2" Canvas.Left="0" Canvas.Top="0" />
+        </Canvas>
+        <Menu Height="33" Name="menu1" VerticalAlignment="Top" Margin="0,0,2,0">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF00BC00" Offset="0" />
+                    <GradientStop Color="White" Offset="1" />
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="Новая игра  [F2]" FontSize="16" FontWeight="Bold" Click="MenuItem_Click" />
+            <MenuItem Header=" Пауза  [P]" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left" FontSize="16" FontWeight="Bold" Background="{x:Null}" Click="MenuItem_Click_1"></MenuItem>
+        </Menu>
+        <Label Content="000000" Height="34" HorizontalAlignment="Left" Margin="277,48,0,0" Name="labelScore" VerticalAlignment="Top" Width="105" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Right" Foreground="MediumBlue" />
+        <Label Content="x 1" FontSize="16" FontWeight="Bold" Height="34" HorizontalAlignment="Left" HorizontalContentAlignment="Right" Margin="277,80,0,0" Name="labelSpeed" VerticalAlignment="Top" Width="105" Foreground="Coral" />
+        <Canvas Height="96" HorizontalAlignment="Left" Margin="286,133,0,0" Name="canvasNextFigure" VerticalAlignment="Top" Width="96" Background="{x:Null}" />
+        <Image Height="28" HorizontalAlignment="Left" Margin="310,275,0,0" Name="imageBrick" Stretch="Fill" VerticalAlignment="Top" Width="26" Source="/Tetris;component/Images/brick.png" Visibility="Hidden" />
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFC0FFB4" Offset="0" />
+                <GradientStop Color="#FFFF5FFF" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

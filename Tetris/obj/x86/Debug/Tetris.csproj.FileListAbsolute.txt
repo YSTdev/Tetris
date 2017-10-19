@@ -1,0 +1,50 @@
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\MainWindow.baml
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\App.g.cs
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.g.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\DevStudio\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\DevStudio\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\MainWindow.baml
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\MainWindow.g.cs
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\App.g.cs
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\Tetris.g.resources
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\DevStudio\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\MainWindow.baml
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\MainWindow.g.cs
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\App.g.cs
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\Tetris.g.resources
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BURN\Учеба (КазНу) 2\семестр 3\Tetris v1.1\Tetris\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\MainWindow.baml
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\MainWindow.g.cs
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\App.g.cs
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\Tetris.g.resources
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+D:\BURN\Учеба (КазНу) 2\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
